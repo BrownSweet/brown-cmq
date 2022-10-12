@@ -1,5 +1,5 @@
 {
-  "name": "brown-cmq/brown-cmq",
+  "name": "Brown/BrownCmq",
   "description": "腾讯云CMQ封装",
   "minimum-stability": "dev",
   "license": "Apache-2.0",
