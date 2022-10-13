@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "brown\\": "src/cmq"
+      "brown\\": "src"
     }
   }
 
